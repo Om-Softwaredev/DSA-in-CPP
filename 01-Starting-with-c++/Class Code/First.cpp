@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     // cout<<"Hello Coder Army"<<endl<<"Hello Coder Army"<<endl;
-    // //or
+    // or
     // cout<<"Hello Coder Army\n"<<"Hello Coder Army";
 
     //Variable declare int takes 4 byte
